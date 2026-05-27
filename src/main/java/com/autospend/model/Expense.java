@@ -14,7 +14,6 @@ public class Expense {
     private LocalDateTime processedAt;
 
     public Expense(){}
-
     public Expense(
             LocalDate purchaseDate,
             String merchant,

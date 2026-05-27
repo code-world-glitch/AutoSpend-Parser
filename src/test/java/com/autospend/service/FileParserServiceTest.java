@@ -16,7 +16,6 @@ class FileParserServiceTest {
     DatabaseManager manager;
 
     ExpenseRepository repository;
-
     FileParserService service;
 
     @BeforeEach

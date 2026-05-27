@@ -1,7 +1,6 @@
 # AutoSpend Parser
 
 ### Automated Expense & Receipt Logistics Tracker
-
 AutoSpend Parser automatically watches incoming expense files, parses data, persists information into H2 database storage and archives completed files.
 
 Built to demonstrate production Java engineering practices.

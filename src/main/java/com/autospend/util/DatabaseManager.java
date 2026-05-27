@@ -18,7 +18,6 @@ public class DatabaseManager {
     public Connection getConnection() throws Exception{
         return DriverManager.getConnection(url,"sa","");
     }
-
     public void initializeDatabase(){
 
         try(Connection conn=getConnection();

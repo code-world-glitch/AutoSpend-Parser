@@ -5,7 +5,6 @@ import com.autospend.service.FileParserService;
 import com.autospend.util.DatabaseManager;
 
 import java.util.List;
-
 public class App {
 
     public static void main(String[] args)

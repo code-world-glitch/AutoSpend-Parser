@@ -13,7 +13,6 @@ public class ExpenseRepository {
     public ExpenseRepository(Connection connection){
         this.connection=connection;
     }
-
     public void save(Expense e){
 
         String sql="""
